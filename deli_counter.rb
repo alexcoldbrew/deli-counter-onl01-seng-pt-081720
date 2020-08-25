@@ -6,7 +6,7 @@ def line(array)
   else
     message = "The line is currently:"
     
-  
+  array.each_with_index
   end
 end
 
