@@ -14,9 +14,6 @@ end
 end
 
 
-def take_a_number(katz_deli, name)
-  if katz_deli = []
-    katz_deli = katz_deli.push(name)
-    puts "Welcome, #{name}. You are number _ in line."
-  end
+def take_a_number(array, name)
+  
 end
